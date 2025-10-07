@@ -8,6 +8,9 @@
 
 本项目从零开始实现了时序卷积网络（Temporal Convolutional Network, TCN），通过详细的理论解析和实际代码演示，帮助深入理解TCN的工作原理和应用。
 
+> 📖 **详细的TCN理论解析推荐阅读：**
+> [时空图神经网络5——TCN（CSDN 博客）](https://blog.csdn.net/m0_51501260/article/details/147849826?ops_request_misc=&request_id=&biz_id=102&utm_term=TCN&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-147849826.nonecase&spm=1018.2226.3001.4187)
+
 ### 🔑 核心特性
 
 - ✅ **完整的TCN实现**：从基础组件到完整模型
